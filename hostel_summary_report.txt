@@ -1,0 +1,23 @@
+=================================================================
+   HOSTEL ROOM ALLOCATION & FEE MANAGEMENT SYSTEM - SUMMARY REPORT
+=================================================================
+ Total Registered Students   : 60
+ Total Capacity Rooms        : 30
+ Rooms with Occupants        : 30
+ Completely Vacant Rooms     : 0
+-----------------------------------------------------------------
+ FEE COLLECTION OVERVIEW:
+ - Hostel Fee Expected       : Rs. 2,880,000.00
+ - Hostel Fee Collected      : Rs. 2,289,000.00
+ - Mess Fee Expected         : Rs. 1,824,000.00
+ - Mess Fee Collected        : Rs. 1,295,000.00
+ - Overall Fee Expected      : Rs. 4,704,000.00
+ - Overall Fee Collected     : Rs. 3,584,000.00
+ - Outstanding Dues          : Rs. 1,120,000.00
+ - Overall Collection Rate   : 76.19%
+-----------------------------------------------------------------
+ STUDENT FEE STATUS BREAKDOWN:
+ - Full Fee Paid Students    : 31
+ - Partial Paid Students     : 23
+ - Zero Paid (Pending)       : 6
+=================================================================
